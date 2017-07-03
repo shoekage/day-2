@@ -49,6 +49,13 @@ aside {
   position:relative;
   float: left;
   width: 25%;
-  height: 250px;
+  height: 200px;
   padding: 10px 10px;
+}
+footer {
+  color: #fff;
+  height: 50px;
+  padding: 10px 10px;
+  clear: both;
+  font-size: 18px;
 }
